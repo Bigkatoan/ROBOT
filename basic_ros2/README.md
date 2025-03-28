@@ -4,5 +4,4 @@
 
 ```
 . install_ros2.bash
-
 ```
